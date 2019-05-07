@@ -1,0 +1,12 @@
+Works with Drewol/unnamed-sdvx-clone.
+
+Usage:
+
+1. Rename your old `maps.db` to `corrupt.db`
+2. Create a new `maps.db` by launching `usc-game`
+3. Copy both db files to the script location and run the script.
+4. Copy modified `maps.db` back into the unnamed-sdvx-clone directory.
+
+Note:
+
+This works by matching chart file paths.
